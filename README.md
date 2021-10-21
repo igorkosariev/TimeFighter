@@ -1,5 +1,5 @@
 # TimeFighter
-## This is Android game with a countdown timer that increments score when tapping a button
+## This is an Android game with a countdown timer that increments the score when tapping a button.
 ### Languages : Kotlin
 
 Demo gif.
